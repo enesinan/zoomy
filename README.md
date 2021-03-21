@@ -3,9 +3,10 @@ this is a zoom-clone. we called zoomy 🎥
 
 # LIVE
 
- * <a href="#">To check out the live demo of this app</a>
+ * <a href="#">To check out the live demo of this app</a></br> 
  
-</br> 
+
+
 # ABOUT 
  
 
