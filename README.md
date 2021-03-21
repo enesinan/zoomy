@@ -14,6 +14,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 
 # INSTALLATION
+ * clone the repository 
+ * 
 
 # USAGE
 
