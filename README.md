@@ -6,12 +6,9 @@ This is a zoom-clone. we called zoomy 🎥</br>
  * <a href="https://zoomy-clone.herokuapp.com/">To check out the live demo of this app</a></br> </br> 
  
 
-
 # ABOUT 
  * We used Nodejs, Expressjs, Socket.io, Peer.js, jQquery and EJS for the frontend
  
- 
-
 
 # INSTALLATION
  * Clone the repository </br>
@@ -39,7 +36,6 @@ node server.js
 </br></br></br>
 ![zoomyyyy](https://user-images.githubusercontent.com/72499839/111921030-71e3f800-8aa3-11eb-9bd5-0546423210de.png)
 </br></br></br>
-
 
 
 
