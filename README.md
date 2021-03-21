@@ -20,6 +20,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
  ```
 
 # USAGE
+ * Run the server.js 
+
 ```
 cd zoomy-clone
 
