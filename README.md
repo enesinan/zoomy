@@ -1,10 +1,11 @@
-# zoomy 🎥
-this is a zoom-clone. we called zoomy :)
+# zoomy 
+this is a zoom-clone. we called zoomy 🎥
 
 # LIVE
 
  * <a href="#">To check out the live demo of this app</a>
  
+</br> 
 # ABOUT 
  
 
