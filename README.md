@@ -8,6 +8,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 
 # ABOUT 
+ * We used Nodejs, Expressjs, Socket.io, Peer.js, jQquery and EJS for the frontend
+ 
  
 
 
