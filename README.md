@@ -22,8 +22,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
 # USAGE
 ```
 cd zoomy-clone
-node server.js
 
+node server.js
 ```
   
 
