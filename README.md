@@ -11,6 +11,9 @@ this is a zoom-clone. we called zoomy 🎥</br>
  
 
 
+# INSTALLATION
+
+
 
 # LICENSE
 </br>
