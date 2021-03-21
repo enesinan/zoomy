@@ -1,4 +1,4 @@
-# 🟡 zoomy 
+# 🟡  zoomy 
 This is a zoom-clone. we called zoomy 🎥</br> 
 
 # ⚡ LIVE 
