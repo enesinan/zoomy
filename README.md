@@ -13,7 +13,7 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 # INSTALLATION
 
-
+# USAGE
 
 # LICENSE
 </br>
