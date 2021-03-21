@@ -15,7 +15,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 # INSTALLATION
  * Clone the repository </br>
- -- git clone  https://github.com/enes-dev/zoomy.git
+ ```
+ git clone  https://github.com/enes-dev/zoomy.git
 
 # USAGE
 
