@@ -3,6 +3,8 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # ⚡ LIVE 
 
  * <a href="https://zoomy-clone.herokuapp.com/">To check out the live demo of this app</a></br> </br> 
