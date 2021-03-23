@@ -7,7 +7,6 @@ This is a zoom-clone. we called zoomy 🎥</br>
 
 
 
-
 # ⚡ LIVE 
 
  * <a href="https://zoomy-clone.herokuapp.com/">To check out the live demo of this app</a></br> </br> 
